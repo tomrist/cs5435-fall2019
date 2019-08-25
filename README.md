@@ -1,5 +1,3 @@
-### Syllabus for CS 5435
-
 # Syllabus for CS 5435
 
 Welcome to CS 5435, introduction to computer security (also called "Security and
