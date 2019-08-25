@@ -23,7 +23,10 @@ TAs: Paul Grubbs (pag225@cornell.edu), Bijeeta Pal (bp397@cornell.edu), Nirvan T
 Office hours: TBA
 
 
-We will have an official slack channel for discussing the class. 
+Graders: Kaveesha Shah (ks2379@cornell.edu), Andy Zhang (jz359@cornell.edu), Vignesh Rao  (vnr7@cornell.edu),
+Larissa Pereira (lp445@cornell.edu) 
+
+We will have an official Piazza for class discussions. 
 
 ### Pre-requisites
 
@@ -87,11 +90,6 @@ A preliminary schedule is
 <a href="https://docs.google.com/spreadsheets/d/1UTABEPfJTjXS-1D5Vqq8lfps037oNO7Gqt9M1NckTpQ/edit?usp=sharing">here</a>.
 This schedule may evolve, but we will try to stick to it particularly with
 respect to the homeworks. 
-
-
-Preliminary schedule is below. This will surely evolve
-
-<iframe src="https://calendar.google.com/calendar/embed?src=v93f385q70443bjgsfqbq46rvs%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
