@@ -24,7 +24,15 @@ Office hours: TBA
 Graders: Kaveesha Shah (ks2379@cornell.edu), Andy Zhang (jz359@cornell.edu), Vignesh Rao  (vnr7@cornell.edu),
 Larissa Pereira (lp445@cornell.edu) 
 
-We will have an official Piazza for class discussions. 
+### Course online resources
+
+* Course website ([Github](https://github.com/tomrist/cs5435-fall2019)): This Github repository will include general information about the course and will be updated to include lecture material and slides throughout the semester.
+
+* Course schedule ([Google spreadsheet](https://docs.google.com/spreadsheets/d/1UTABEPfJTjXS-1D5Vqq8lfps037oNO7Gqt9M1NckTpQ/)): A preliminary schedule is available. The schedule may evolve, but we will try to stick to it particularly with respect to the homeworks.
+
+* Course Q/A ([Piazza](https://piazza.com/tech.cornell/fall2019/cs5435/home)): We will be using Piazza for class discussion. Rather than emailing questions on logistics, homeworks, and lecture material to staff, we encourage you to post on Piazza instead.
+
+* Course management system ([CMSX](https://cmsx.cs.cornell.edu)): We will be using Cornell's CMSX platform for homework submissions and grading. If the CMSX site does not show up for you, please email the TAs and we can attempt to help fix your enrollment status. 
 
 ### Pre-requisites
 
@@ -81,14 +89,3 @@ judgement.
 
 If you have to miss an exam date, or have other requests in terms of
 accomodations please contact me. 
-
-## Schedule
-
-A preliminary schedule is
-<a href="https://docs.google.com/spreadsheets/d/1UTABEPfJTjXS-1D5Vqq8lfps037oNO7Gqt9M1NckTpQ/edit?usp=sharing">here</a>.
-This schedule may evolve, but we will try to stick to it particularly with
-respect to the homeworks. 
-
-
-
-
