@@ -16,7 +16,7 @@ Instructor: Tom Ristenpart (https://rist.tech.cornell.edu)
 
 Office hours: By appointment
 
-TAs: Paul Grubbs (pag225@cornell.edu), Bijeeta Pal (bp397@cornell.edu), Nirvan Tyagi (nirvan.tyagi@gmail.com)
+TAs: Paul Grubbs (pag225@cornell.edu), Bijeeta Pal (bp397@cornell.edu), Nirvan Tyagi (nt355@cornell.edu)
 
 Office hours: TBA
 
