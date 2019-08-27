@@ -54,7 +54,7 @@ You'll be graded according to the following:
 Grades will not be curved, so in theory everyone could get an A in the class if
 everyone does well.
 
-We are planning 4 somewhat larger homework assignments. a preliminary schedule
+We are planning 4 somewhat larger homework assignments. A preliminary schedule
 of when homeworks will be assigned and when they are due, as well as the prelim
 and final dates appear in 
 the course schedule linked below. The prelim and final will be in-class exams including
