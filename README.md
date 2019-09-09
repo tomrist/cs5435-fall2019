@@ -34,6 +34,8 @@ Larissa Pereira (lp445@cornell.edu)
 
 * Course management system ([CMSX](https://cmsx.cs.cornell.edu)): We will be using Cornell's CMSX platform for homework submissions and grading. If the CMSX site does not show up for you, please email the TAs and we can attempt to help fix your enrollment status. 
 
+* Course ([recordings](https://cornell.mediasite.com/Mediasite/Catalog/Full/eae79e547b784c0cbcd2209400446ddf21)): Lecture is recorded and the recordings will be available for the semester. 
+
 ### Pre-requisites
 
 Basic programming skills and an introductory course on discrete structures and / or algorithms (e.g., CS 2800 or CS 4820). 
