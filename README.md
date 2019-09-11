@@ -18,7 +18,7 @@ Office hours: By appointment
 
 TAs: Paul Grubbs (pag225@cornell.edu), Bijeeta Pal (bp397@cornell.edu), Nirvan Tyagi (nt355@cornell.edu)
 
-Office hours: Tuesday and Thursday, 11am - 12pm
+Office hours: Tuesday and Wednesday, 11am - 12pm (Masters Studio)
 
 
 Graders: Kaveesha Shah (ks2379@cornell.edu), Andy Zhang (jz359@cornell.edu), Vignesh Rao  (vnr7@cornell.edu),
