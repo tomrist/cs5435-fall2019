@@ -30,6 +30,8 @@ Larissa Pereira (lp445@cornell.edu)
 
 * Course schedule ([Google spreadsheet](https://docs.google.com/spreadsheets/d/1UTABEPfJTjXS-1D5Vqq8lfps037oNO7Gqt9M1NckTpQ/)): A preliminary schedule is available. The schedule may evolve, but we will try to stick to it particularly with respect to the homeworks.
 
+* Resources and readings ([Google doc](https://docs.google.com/document/d/1jlQlAgI0DrKJIUiW2FSVUbFf-8xfyAbJHUm7Rhp5rb0/)): Links to various resources, tutorials, research papers, etc., organized by topic.
+
 * Course Q/A ([Piazza](https://piazza.com/tech.cornell/fall2019/cs5435/)): We will be using Piazza for class discussion. Rather than emailing questions on logistics, homeworks, and lecture material to staff, we encourage you to post on Piazza instead.
 
 * Course management system ([CMSX](https://cmsx.cs.cornell.edu)): We will be using Cornell's CMSX platform for homework submissions and grading. If the CMSX site does not show up for you, please email the TAs and we can attempt to help fix your enrollment status. 
